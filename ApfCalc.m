@@ -1,7 +1,7 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 8/19/2020
-% apfCalc.m
+% ApfCalc.m
 %
 % This script calculates atomic packing factor (apf) and density based on
 % user input along with associated error based on input uncertainty values.
